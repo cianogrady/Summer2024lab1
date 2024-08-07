@@ -3,8 +3,8 @@
 // main() runs in its own thread in the OS
 int main()
 {
+    // This is a program for lab 1 embedded module
     while (true) {
-
     }
 }
 
